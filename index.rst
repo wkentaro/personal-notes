@@ -17,3 +17,12 @@ Contents
    :maxdepth: 2
 
   2016_onedo/index
+
+
+Inbox
+-----
+
+.. toctree::
+   :maxdepth: 1
+
+   inbox/*
