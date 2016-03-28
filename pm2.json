@@ -1,0 +1,10 @@
+{
+    "name": "notes",
+    "script": "launch.sh",
+    "exec_interpreter": "bash",
+    "exec_mode": "fork",
+    "instances": "1",
+    "env": {
+    },
+    "autorestart": true
+}
