@@ -8,9 +8,3 @@
 - https://github.com/vcstools/wstool/pull/85
 - https://github.com/vcstools/wstool/pull/86
 - https://github.com/vcstools/wstool/pull/87
-
-
-動くKinect2プログラムのワークスペース
--------------------------------------
-
-- https://github.com/start-jsk/jsk_apc/pull/1082
