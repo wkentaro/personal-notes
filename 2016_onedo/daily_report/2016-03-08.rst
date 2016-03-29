@@ -1,0 +1,19 @@
+2016-03-08
+==========
+
+
+APC2016用の基本的プログラムの準備
+---------------------------------
+
+
+- APC2016用の物体データの準備
+
+  - https://github.com/start-jsk/jsk_apc/pull/1102
+
+- APC2016用の共有データの準備
+
+  - https://github.com/start-jsk/jsk_apc/pull/1112
+
+- APC2016用のインターフェースの準備
+
+  - https://github.com/start-jsk/jsk_apc/pull/1116
