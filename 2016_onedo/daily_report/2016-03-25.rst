@@ -1,0 +1,81 @@
+2016-03-25
+==========
+
+
+ユニットテスト
+--------------
+
+- https://github.com/start-jsk/jsk_apc/pull/1147
+
+
+APC2015用の共通パッケージを作成
+-------------------------------
+
+- https://github.com/amazon-picking-challenge/apc_common/pull/1
+- https://github.com/amazon-picking-challenge/apc_common/pull/2
+- https://github.com/amazon-picking-challenge/apc_common/pull/3
+- https://github.com/amazon-picking-challenge/apc_common/pull/5
+- https://github.com/amazon-picking-challenge/apc_common/pull/6
+- https://github.com/amazon-picking-challenge/apc_common/pull/7
+- https://github.com/amazon-picking-challenge/apc_common/pull/8
+- https://github.com/amazon-picking-challenge/apc_common/pull/9
+- https://github.com/amazon-picking-challenge/apc_common/pull/12
+
+
+APC2015プログラムのドキュメントを作成
+-------------------------------------
+
+- https://github.com/start-jsk/jsk_apc/pull/1152
+- https://github.com/jsk-ros-pkg/jsk_docs/pull/12
+- https://github.com/jsk-ros-pkg/jsk_docs/pull/13
+- https://github.com/jsk-ros-pkg/jsk_docs/pull/15
+- https://github.com/start-jsk/jsk_apc/pull/1154
+- https://github.com/start-jsk/jsk_apc/pull/1155
+- https://github.com/start-jsk/jsk_apc/pull/1156
+- https://github.com/start-jsk/jsk_apc/pull/1157
+- https://github.com/start-jsk/jsk_apc/pull/1158
+- https://github.com/start-jsk/jsk_apc/pull/1159
+- https://github.com/start-jsk/jsk_apc/pull/1160
+- https://github.com/start-jsk/jsk_apc/pull/1163
+- https://github.com/start-jsk/jsk_apc/pull/1164
+- https://github.com/start-jsk/jsk_apc/pull/1165
+- https://github.com/start-jsk/jsk_apc/pull/1168
+- https://github.com/start-jsk/jsk_apc/pull/1169
+- https://github.com/start-jsk/jsk_apc/pull/1170
+- https://github.com/start-jsk/jsk_apc/pull/1171
+- https://github.com/start-jsk/jsk_apc/pull/1173
+- https://github.com/start-jsk/jsk_apc/pull/1172
+- https://github.com/start-jsk/jsk_apc/pull/1174
+- https://github.com/start-jsk/jsk_apc/pull/1175
+- https://github.com/start-jsk/jsk_apc/pull/1176
+- https://github.com/start-jsk/jsk_apc/pull/1177
+- https://github.com/jsk-ros-pkg/jsk_docs/pull/17
+- https://github.com/jsk-ros-pkg/jsk_docs/pull/18
+
+
+
+テストにおける依存パッケージ解決の安定化
+----------------------------------------
+
+- 解決の失敗を検知できる
+
+  - https://github.com/jsk-ros-pkg/jsk_travis/pull/231
+  - https://github.com/start-jsk/jsk_apc/pull/1167
+
+
+コードスタイルのテスト
+---------------------
+
+- https://github.com/start-jsk/jsk_apc/pull/1190
+- https://github.com/start-jsk/jsk_apc/pull/1189
+
+
+hydroパッケージのindigo対応
+---------------------------
+
+- https://github.com/jsk-ros-pkg/jsk_tendon_robot/pull/370
+- https://github.com/jsk-ros-pkg/jsk_tendon_robot/pull/371
+- https://github.com/jsk-ros-pkg/jsk_tendon_robot/pull/372
+- https://github.com/jsk-ros-pkg/jsk_tendon_robot/pull/373
+- https://github.com/jsk-ros-pkg/jsk_tendon_robot/pull/374
+

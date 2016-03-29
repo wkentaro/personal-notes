@@ -1,0 +1,21 @@
+2016-03-23
+==========
+
+
+APC2015 on GAZEBO の安定化
+--------------------------
+
+- バージョン指定
+  - https://github.com/start-jsk/jsk_apc/pull/1128
+
+
+APC2016 Stow Task におけるインターフェースの可視化
+--------------------------------------------------
+
+- https://github.com/start-jsk/jsk_apc/pull/1133
+
+
+DEBパッケージを使うことによるテストの高速化
+-------------------------------------------
+
+- https://github.com/start-jsk/jsk_apc/pull/1145
