@@ -48,6 +48,11 @@ help:
 	@echo "  doctest    to run all doctests embedded in the documentation (if enabled)"
 	@echo "  coverage   to run coverage check of the documentation (if enabled)"
 
+.PHONY: www
+www: html singlehtml latexpdfja
+	ssh -o 'ProxyCommand ssh wada@aries.jsk.t.u-tokyo.ac.jp -W %h:%p' wada@www rm -rf public_html/notes
+	scp -r -o 'ProxyCommand ssh wada@aries.jsk.t.u-tokyo.ac.jp -W %h:%p' _build wada@www:public_html/notes
+
 .PHONY: clean
 clean:
 	rm -rf $(BUILDDIR)/*
