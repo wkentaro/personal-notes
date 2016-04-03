@@ -12,12 +12,16 @@ Data
 - Mask image for each object
 
 
-TODO
-----
+.. todo:: Load Dataset
+
+
+Log
++++
 
 2016-04-03
 
-- [ ] Load dataset
+- Load Dataset
+
 
 
 References
