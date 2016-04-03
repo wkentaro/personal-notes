@@ -57,7 +57,7 @@ git-push:
 	git push origin master
 
 .PHONY: www
-www: html singlehtml latexpdfja
+www: html singlehtml
 	ssh -o 'ProxyCommand ssh wada@aries.jsk.t.u-tokyo.ac.jp -W %h:%p' wada@www rm -rf public_html/notes
 	scp -r -o 'ProxyCommand ssh wada@aries.jsk.t.u-tokyo.ac.jp -W %h:%p' _build wada@www:public_html/notes
 
