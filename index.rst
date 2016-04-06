@@ -14,10 +14,10 @@ Inbox:
   inbox/*
 
 
-Projects:
+Daily Reports:
 
 .. toctree::
-   :maxdepth: 2
-   :glob:
+   :maxdepth: 1
 
-   2016_onedo/index
+   daily_report/2016/index
+
