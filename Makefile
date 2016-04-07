@@ -48,22 +48,6 @@ help:
 	@echo "  doctest    to run all doctests embedded in the documentation (if enabled)"
 	@echo "  coverage   to run coverage check of the documentation (if enabled)"
 
-.PHONY: git-push
-git-push:
-	git checkout master || echo ok
-	git status --porcelain | grep '.*' &>/dev/null && git add --all . && git commit -m "Update notes at $(shell date +'%Y-%m-%d %H:%M:%S')" || echo ok
-	git fetch origin
-	git rebase origin/master
-	git push origin master
-
-.PHONY: www
-www: html singlehtml
-	ssh -o 'ProxyCommand ssh wada@aries.jsk.t.u-tokyo.ac.jp -W %h:%p' wada@www rm -rf public_html/notes
-	scp -q -r -o 'ProxyCommand ssh wada@aries.jsk.t.u-tokyo.ac.jp -W %h:%p' _build wada@www:public_html/notes
-
-.PHONY: publish
-publish: git-push www
-
 .PHONY: clean
 clean:
 	rm -rf $(BUILDDIR)/*
