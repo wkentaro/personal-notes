@@ -1,0 +1,14 @@
+2016-04-06
+==========
+
+
+画像の複数領域情報の可視化
+----------------------
+
+- https://github.com/jsk-ros-pkg/jsk_recognition/pull/1581
+- https://github.com/jsk-ros-pkg/jsk_recognition/pull/1580
+- https://github.com/jsk-ros-pkg/jsk_recognition/pull/1579
+- https://github.com/start-jsk/jsk_apc/pull/1239
+
+.. image:: https://cloud.githubusercontent.com/assets/4310419/14308572/f3fb0a70-fc11-11e5-98da-78ff40b6fd14.jpg
+
