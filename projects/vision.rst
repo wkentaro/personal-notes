@@ -47,7 +47,4 @@ Stochastic Region Recognition
 
 - Semantic / Bounding Box
 
-.. image:: http://jsk-docs.readthedocs.org/en/latest/_images/fast_rcnn_caffenet1.jpg
-   :width: 55%
-.. image:: http://jsk-docs.readthedocs.org/en/latest/_images/fast_rcnn_caffenet_real.png
-   :width: 44%
+.. image:: http://jsk-docs.readthedocs.org/en/latest/_images/fast_rcnn_caffenet1.gif
