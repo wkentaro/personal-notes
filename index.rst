@@ -5,19 +5,23 @@ notes
 :Start Date: Mar 29, 2016
 
 
-Inbox:
 
 .. toctree::
   :maxdepth: 2
+  :caption: Contents
   :glob:
 
   inbox/*
 
 
-Daily Reports:
-
 .. toctree::
    :maxdepth: 1
+   :caption: Daily Reports
 
    daily_report/2016/index
 
+
+TODO List
+---------
+
+.. todolist::
