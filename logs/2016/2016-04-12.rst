@@ -1,0 +1,9 @@
+2016-04-12
+==========
+
+
+config_switch
+-------------
+
+- ツール複数の設定を一つのユーザで扱う．
+- https://github.com/jsk-ros-pkg/jsk_common/pull/1369
