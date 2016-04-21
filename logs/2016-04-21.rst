@@ -1,0 +1,14 @@
+2016-04-21
+==========
+
+
+Fix generating Euslisp ROS message with catkin_tools 0.4.x
+----------------------------------------------------------
+
+- https://github.com/jsk-ros-pkg/jsk_roseus/pull/441
+
+
+Implement FCN8s
+---------------
+
+- https://github.com/wkentaro/apc2015or/pull/1
