@@ -6,4 +6,4 @@
   :maxdepth: 2
   :glob:
 
-  *
+  2016-*

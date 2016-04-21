@@ -18,7 +18,7 @@ notes
    :maxdepth: 1
    :caption: Daily Reports
 
-   daily_report/2016/index
+   daily_report/index
 
 
 TODO List
