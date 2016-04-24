@@ -1,0 +1,21 @@
+2016-04-22
+==========
+
+
+BING: Binarized Normed Gradients for Objectness Estimation at 300fps
+--------------------------------------------------------------------
+
+- https://github.com/jsk-ros-pkg/jsk_recognition/pull/1598
+
+.. image:: _images/60fa874c-08bd-11e6-9563-b4a0c49e1ad3.png
+
+
+Speed
++++++
+
+around 20fps on my Macbook Pro Retina (mid 2012)::
+
+           topic             rate    min_delta   max_delta   std_dev
+  ==================================================================
+  /camera/rgb/image_color   29.887   0.028       0.037       0.002
+  /bing/output              2.842    0.352       0.352       0
