@@ -3,7 +3,7 @@
 
 
 画像の複数領域情報の可視化
-----------------------
+--------------------------
 
 - https://github.com/jsk-ros-pkg/jsk_recognition/pull/1581
 - https://github.com/jsk-ros-pkg/jsk_recognition/pull/1580

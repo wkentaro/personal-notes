@@ -16,9 +16,9 @@ notes
 
 .. toctree::
    :maxdepth: 1
-   :caption: Daily Reports
+   :caption: Logs
 
-   daily_report/index
+   logs/index
 
 
 TODO List

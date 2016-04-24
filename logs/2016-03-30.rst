@@ -21,7 +21,7 @@ Travisでcatkin installのテスト
 
 
 物体検出
--------
+--------
 
 - https://github.com/jsk-ros-pkg/jsk_recognition/pull/1567
 
