@@ -15,13 +15,21 @@ notes
 
 
 .. toctree::
+   :maxdepth: 2
+   :caption: Inbox
+   :glob:
+
+   inbox/*
+
+
+.. toctree::
    :maxdepth: 1
    :caption: Logs
 
    logs/index
 
 
-TODO List
+Todo List
 ---------
 
 .. todolist::
