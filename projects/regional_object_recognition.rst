@@ -2,25 +2,21 @@ Regional Object Recognition
 ===========================
 
 
-apc2015or
----------
-
-Data
-++++
-
-- RGB images
-- Mask image for each object
+Semantic Object Segmentation
+----------------------------
 
 
-.. todo:: Load Dataset
+Fully Convolutional Networks
+++++++++++++++++++++++++++++
+
+- Paper: http://arxiv.org/pdf/1411.4038.pdf
+- Chainer Implementation: http://seiya-kumada.blogspot.jp/2016/03/fully-convolutional-networks-chainer.html
 
 
-Log
-+++
+Amazon Picking Challenge 2016
++++++++++++++++++++++++++++++
 
-2016-04-03
-
-- Load Dataset
+- https://github.com/wkentaro/apc2015or.git
 
 
 
