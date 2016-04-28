@@ -1,0 +1,34 @@
+2016-04-27
+==========
+
+
+Testing
+-------
+
+- https://github.com/start-jsk/jsk_apc/pull/1367
+- https://github.com/jsk-ros-pkg/jsk_common/pull/1382
+
+
+Visualization
+-------------
+
+- https://github.com/jsk-ros-pkg/jsk_visualization/pull/591
+
+
+Motion
+------
+
+- https://github.com/start-jsk/jsk_apc/pull/1365
+- https://github.com/start-jsk/jsk_apc/pull/1366
+
+
+Hovering cube on Gazebo
+-----------------------
+
+- https://github.com/wkentaro/jsk_201604_cmo/pull/1
+
+
+FCN8s for Semantic Object Recognition
+-------------------------------------
+
+- https://github.com/wkentaro/apc2015or/pull/1

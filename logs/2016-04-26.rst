@@ -1,0 +1,24 @@
+2016-04-26
+==========
+
+
+Testing
+-------
+
+- https://github.com/jsk-ros-pkg/jsk_recognition/pull/1617
+- https://github.com/jsk-ros-pkg/jsk_travis/pull/252
+- https://github.com/jsk-ros-pkg/jsk_recognition/pull/1615
+- https://github.com/jsk-ros-pkg/jsk_recognition/pull/1614
+- https://github.com/jsk-ros-pkg/jsk_recognition/pull/1612
+
+
+Installation
+------------
+
+- https://github.com/jsk-ros-pkg/jsk_3rdparty/pull/62
+
+
+FCN8s for Semantic Object Recognition
+-------------------------------------
+
+- https://github.com/wkentaro/apc2015or/pull/1
