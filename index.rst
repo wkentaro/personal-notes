@@ -7,11 +7,11 @@ notes
 
 
 .. toctree::
-  :maxdepth: 2
-  :caption: Contents
-  :glob:
-
-  inbox/*
+   :maxdepth: 2
+   :caption: Projects
+   :glob:
+ 
+   projects/*
 
 
 .. toctree::
