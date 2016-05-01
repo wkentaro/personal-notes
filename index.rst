@@ -16,10 +16,10 @@ notes
 
 .. toctree::
    :maxdepth: 2
-   :caption: Inbox
+   :caption: Survey
    :glob:
 
-   inbox/*
+   survey/*
 
 
 .. toctree::
