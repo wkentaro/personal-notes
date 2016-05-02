@@ -1,5 +1,5 @@
-Catch Moving Objects
-====================
+Catch Moving Objects *(CMO)*
+============================
 
 
 Reachable Space

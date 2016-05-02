@@ -1,5 +1,5 @@
-Regional Grasp Planning
-=======================
+Regional Grasp Planning *(RGP)*
+===============================
 
 
 jsk_2016_01_baxter_apc
