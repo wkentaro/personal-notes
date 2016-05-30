@@ -1,0 +1,11 @@
+2016-05-11
+==========
+
+
+Learning curve for FCN
+----------------------
+
+- https://github.com/wkentaro/fcn/pull/26
+
+
+.. image:: _images/34141c20-1876-11e6-8504-f90fc0465ffe.png

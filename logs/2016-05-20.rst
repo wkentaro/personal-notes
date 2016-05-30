@@ -2,3 +2,11 @@
 ==========
 
 
+Survey
+------
+
+- Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection
+- http://arxiv.org/abs/1603.02199
+
+- End-to-End Training of Deep Visuomotor Policies
+- https://arxiv.org/abs/1504.00702
