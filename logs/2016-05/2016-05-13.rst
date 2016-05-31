@@ -1,0 +1,23 @@
+2016-05-13
+==========
+
+[util] Support async in is_synchronized
+---------------------------------------
+
+- https://github.com/jsk-ros-pkg/jsk_common/pull/1393
+
+.. code-block:: bash
+
+  % ./is_synchronized /raw_image_rgb/image_color /depth_image_32fc1/image_depth -a
+  ****************** Test Condition ******************
+  sync_policy: Approximate
+  topics:
+    1. /raw_image_rgb/image_color [sensor_msgs/Image]
+    2. /depth_image_32fc1/image_depth [sensor_msgs/Image]
+  timeout: 5 seconds
+  queue_size: 100
+  slop: 0.1
+  ****************************************************
+  listening these topics for at most 5 seconds in rostime
+  synchronized in 1.0 seconds
+  these topics are: 'synchronized'

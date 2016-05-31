@@ -1,0 +1,14 @@
+2016-05-12
+==========
+
+
+[plan] Compute IK from some predefined poses
+--------------------------------------------
+
+- https://github.com/start-jsk/jsk_apc/pull/1460
+
+
+[recognition] Faster computing for segementation
+------------------------------------------------
+
+- https://github.com/start-jsk/jsk_apc/pull/1439

@@ -1,0 +1,8 @@
+2016-05-26
+==========
+
+
+Use standalone_complexed_nodelet
+--------------------------------
+
+- https://github.com/start-jsk/jsk_apc/pull/1553

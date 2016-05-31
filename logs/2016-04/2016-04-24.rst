@@ -1,0 +1,63 @@
+2016-04-24
+==========
+
+
+Integrate Python Packaging and catkin (entry_points)
+----------------------------------------------------
+
+- https://github.com/ros/catkin/pull/798
+- https://github.com/ros/roslint/pull/51
+
+.. code-block:: bash
+
+  $ cat /home/wkentaro/ros/indigo/build/roslint/catkin_generated/setup_py_interrogation.cmake
+  set(roslint_SETUP_PY_VERSION "0.11.0")
+  set(roslint_SETUP_PY_SCRIPTS "")
+  set(roslint_SETUP_PY_PACKAGES "roslint")
+  set(roslint_SETUP_PY_PACKAGE_DIRS "src/roslint")
+  set(roslint_SETUP_PY_MODULES "")
+  set(roslint_SETUP_PY_MODULE_DIRS "")
+  set(roslint_SETUP_PY_ENTRY_POINTS_CONTENT "[catkin_tools.commands.catkin.verbs]
+  roslint = roslint.main:description")
+
+.. code-block:: bash
+
+  $ cat ~/ros/indigo/devel/lib/python2.7/dist-packages/roslint-0.11.0.egg-info/entry_points.txt
+  [catkin_tools.commands.catkin.verbs]
+  roslint = roslint.main:description
+
+.. code-block:: bash
+
+  $ catkin --help
+  usage: catkin [-h] [-a] [--test-colors] [--force-color | --no-color]
+                [build | clean | config | create | init | lint | list | locate | profile | roslint]
+                ...
+
+  catkin command
+
+  optional arguments:
+    -h, --help            show this help message and exit
+    -a, --list-aliases    Lists the current verb aliases and then quits, all
+                          other arguments are ignored
+    --test-colors         Prints a color test pattern to the screen and then
+                          quits, all other arguments are ignored
+    --force-color         Forces catkin to output in color, even when the
+                          terminal does not appear to support it.
+    --no-color            Forces catkin to not use color in the output,
+                          regardless of the detect terminal type.
+
+  catkin command:
+    Call `catkin VERB -h` for help on each verb listed below:
+
+      build       Builds a catkin workspace.
+      clean       Deletes various products of the build verb.
+      config      Configures a catkin workspace's context.
+      create      Creates catkin workspace resources like packages.
+      init        Initializes a given folder as a catkin workspace.
+      lint        Checks catkin packages for common errors
+      list        Lists catkin packages in the workspace or other arbitray folders.
+      locate      Get the paths to various locations in a workspace.
+      profile     Manage config profiles for a catkin workspace.
+      roslint     Run roslint make target
+
+    [build | clean | config | create | init | lint | list | locate | profile | roslint]

@@ -23,10 +23,11 @@ notes
 
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
+   :glob:
    :caption: Logs
 
-   logs/index
+   logs/2016-05/index
 
 
 Todo List

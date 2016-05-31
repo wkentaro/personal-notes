@@ -1,0 +1,8 @@
+2016-05-02
+==========
+
+fcn
+---
+
+- https://github.com/wkentaro/fcn.git
+- Released v1.0.0

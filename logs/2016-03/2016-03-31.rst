@@ -1,0 +1,12 @@
+2016-03-31
+==========
+
+
+テストのリファクタリング
+------------------------
+https://github.com/jsk-ros-pkg/jsk_recognition/pull/1570
+
+
+ROSノードのテストの整理
+-----------------------
+https://github.com/jsk-ros-pkg/jsk_recognition/issues/1571

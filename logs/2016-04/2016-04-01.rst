@@ -1,0 +1,19 @@
+2016-04-01
+==========
+
+
+PointCloudデータをPublishするノードの作成
+-----------------------------------------
+
+- https://github.com/ros-perception/perception_pcl/pull/112
+
+
+APC2016で30点を獲得
+-------------------
+
+LOG: https://drive.google.com/drive/u/1/folders/0B9P1L--7Wd2va3B0NzN4TEg5ZVU
+
+- https://github.com/start-jsk/jsk_apc/pull/1205
+- https://github.com/start-jsk/jsk_apc/pull/1206
+- https://github.com/start-jsk/jsk_apc/pull/1207
+

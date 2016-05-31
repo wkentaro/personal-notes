@@ -1,0 +1,9 @@
+2016-04-20
+==========
+
+
+Generate baxter euslisp model from xacro
+----------------------------------------
+
+- https://github.com/jsk-ros-pkg/jsk_robot/pull/594
+

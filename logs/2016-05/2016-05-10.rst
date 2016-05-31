@@ -1,0 +1,11 @@
+2016-05-10
+==========
+
+
+Colorize computational graph
+----------------------------
+
+- https://github.com/pfnet/chainer/pull/1169
+
+
+.. image:: _images/37dc4a58-16f0-11e6-83a3-cc411927d819.jpg

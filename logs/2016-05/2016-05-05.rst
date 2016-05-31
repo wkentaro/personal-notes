@@ -1,0 +1,28 @@
+2016-05-05
+==========
+
+
+Fix slow code of message_filters Python interface
+-------------------------------------------------
+
+- Package: https://github.com/wkentaro/jsk_20160505_test_message_filters
+- Report: https://github.com/ros/ros_comm/issues/800
+- PRs:
+
+  - https://github.com/ros/ros_comm/pull/801
+  - https://github.com/ros/ros_comm/pull/802
+
+
+FCN cpu/gpu mode & release & enhance visualization
+--------------------------------------------------
+
+
+.. code-block:: bash
+
+  pip install fcn
+
+  fcn_forward.py -i {IMAGE_FILE} --gpu -1  # CPU mode
+  fcn_forward.py -i {IMAGE_FILE} --gpu 0   # GPU mode
+
+
+.. image:: _images/IMG_6317.JPG

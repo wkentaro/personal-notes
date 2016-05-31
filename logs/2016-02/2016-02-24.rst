@@ -1,0 +1,13 @@
+2016-02-24
+==========
+
+
+Kユークリッドクラスタリング
+---------------------------
+- https://github.com/jsk-ros-pkg/jsk_recognition/pull/1538
+
+
+ExtractIndicesのqueue_sizeを増やす
+----------------------------------
+- https://github.com/start-jsk/jsk_apc/pull/1085
+

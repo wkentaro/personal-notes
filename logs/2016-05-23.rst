@@ -1,8 +1,0 @@
-2016-05-23
-==========
-
-
-Object Recognition with VGG16 in Realtime loop
-----------------------------------------------
-
-- https://github.com/jsk-ros-pkg/jsk_recognition/pull/1688

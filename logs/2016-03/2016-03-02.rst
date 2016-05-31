@@ -1,0 +1,14 @@
+2016-03-02
+==========
+
+
+Pick-and-Verify によるピッキングの動画作成
+------------------------------------------
+
+- https://drive.google.com/file/d/0B9P1L--7Wd2veWxRVW5SZ3Y1b00/view?usp=sharing
+
+
+image_view2 のタイムスタンプ処理のbugfix
+----------------------------------------
+
+- https://github.com/jsk-ros-pkg/jsk_common/pull/1351

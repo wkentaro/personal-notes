@@ -1,0 +1,10 @@
+2016-05-18
+==========
+
+
+Visualize jsk_recognition_msgs/ClassificationResult
+---------------------------------------------------
+
+- https://github.com/jsk-ros-pkg/jsk_recognition/pull/1673
+
+.. image:: _images/f7011214-1d18-11e6-8650-092080778d0f.png

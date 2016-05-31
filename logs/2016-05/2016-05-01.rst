@@ -1,0 +1,19 @@
+2016-05-01
+==========
+
+labelcolormap
+-------------
+
+- https://github.com/wkentaro/fcn/commit/8ddfa62153ca4b67f682a4f1577af6cb11c4f45d
+
+
+Fix test
+--------
+
+- https://github.com/jsk-ros-pkg/jsk_travis/pull/255
+
+
+rosdep
+------
+
+- https://github.com/ros-infrastructure/rosdep/pull/449

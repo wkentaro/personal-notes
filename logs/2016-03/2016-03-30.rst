@@ -1,0 +1,28 @@
+2016-03-30
+==========
+
+
+Travisでcatkin installのテスト
+------------------------------
+
+- https://github.com/start-jsk/jsk_apc/pull/1203
+
+
+物体領域の推定
+--------------
+
+- https://github.com/jsk-ros-pkg/jsk_recognition/pull/1566
+
+- 可視化
+
+  - https://github.com/jsk-ros-pkg/jsk_recognition/pull/1568
+
+.. image:: https://raw.githubusercontent.com/wkentaro/jsk_recognition/draw-rect-array/doc/jsk_perception/nodes/images/draw_rect_array.gif
+
+
+物体検出
+--------
+
+- https://github.com/jsk-ros-pkg/jsk_recognition/pull/1567
+
+.. image:: https://cloud.githubusercontent.com/assets/4310419/14148663/50270574-f6db-11e5-82f8-a0459ee4dc05.gif

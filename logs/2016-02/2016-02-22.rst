@@ -1,0 +1,10 @@
+2016-02-22
+==========
+
+
+ワークスペース状態のシンプルな表示
+----------------------------------
+
+- https://github.com/vcstools/wstool/pull/85
+- https://github.com/vcstools/wstool/pull/86
+- https://github.com/vcstools/wstool/pull/87

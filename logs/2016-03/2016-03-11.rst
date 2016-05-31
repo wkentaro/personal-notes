@@ -1,0 +1,22 @@
+2016-03-11
+==========
+
+
+APC用のプログラムのリリース
+---------------------------
+
+- https://github.com/ros/rosdistro/pull/10642
+
+
+Euslispによる動作プログラムのテスト
+-----------------------------------
+
+- https://github.com/start-jsk/jsk_apc/pull/1121
+- https://github.com/start-jsk/jsk_apc/pull/1126
+
+
+リリースプログラム(bloom)への機能追加
+-------------------------------------
+
+- https://github.com/ros-infrastructure/bloom/pull/383
+

@@ -1,9 +1,8 @@
-2016
+Logs
 ====
-
 
 .. toctree::
   :maxdepth: 2
   :glob:
 
-  2016-*
+  */index

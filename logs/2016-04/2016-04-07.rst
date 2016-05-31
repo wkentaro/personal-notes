@@ -1,0 +1,20 @@
+2016-04-07
+==========
+
+
+2つのRealsenseカメラの評価
+--------------------------
+
+- https://github.com/wkentaro/jsk_20160407_evaluate_realsense
+
+
+fetchのeusモデルのendcoordsを直す
+---------------------------------
+
+- https://github.com/jsk-ros-pkg/jsk_robot/pull/587
+
+
+fetchのグリッパーのテレオペ
+---------------------------
+
+- https://github.com/fetchrobotics/fetch_ros/pull/39

@@ -1,8 +1,0 @@
-2016-04-09
-==========
-
-
-Generate Documentation from Euslisp
------------------------------------
-
-- https://github.com/start-jsk/jsk_apc/pull/1249
