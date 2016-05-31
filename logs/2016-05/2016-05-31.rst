@@ -1,0 +1,12 @@
+2016-05-31
+==========
+
+[recognition] Sample images for in-hand object recognition
+----------------------------------------------------------
+
+- https://github.com/jsk-ros-pkg/jsk_recognition/pull/1716
+- https://github.com/jsk-ros-pkg/jsk_recognition/pull/1715
+
+.. image:: _images/554cf712-274a-11e6-8db8-2f196c558a6c.png
+
+.. image:: _images/convex_hull_mask_image.png
