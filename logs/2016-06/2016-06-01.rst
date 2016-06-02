@@ -1,0 +1,8 @@
+2016-06-01
+==========
+
+
+Fix jenkins test
+----------------
+
+- https://github.com/start-jsk/jsk_apc/issues/1618
