@@ -27,7 +27,7 @@ notes
    :glob:
    :caption: Logs
 
-   logs/2016-05/index
+   logs/2016-06/index
 
 
 Todo List
