@@ -1,0 +1,21 @@
+2016-06-02
+==========
+
+
+[test] Fixed travis test on start-jsk/jsk_apc
+---------------------------------------------
+
+- https://github.com/start-jsk/jsk_apc/pull/1617
+- https://github.com/start-jsk/jsk_apc/issues/1618
+
+
+[enhancement] Small size icon for faster adding of display of jsk_rviz_plugins
+------------------------------------------------------------------------------
+
+- https://github.com/jsk-ros-pkg/jsk_visualization/pull/605
+
+
+[maintain] start-jsk/jsk_apc
+----------------------------
+- https://github.com/start-jsk/jsk_apc/issues/1618
+- https://github.com/start-jsk/jsk_apc/pull/1614

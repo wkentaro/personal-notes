@@ -2,7 +2,16 @@
 ==========
 
 
-Fix jenkins test
-----------------
+[test] Fix jenkins test
+-----------------------
 
 - https://github.com/start-jsk/jsk_apc/issues/1618
+
+
+[maintain] start-jsk/jsk_apc
+----------------------------
+
+- https://github.com/start-jsk/jsk_apc/pull/1610
+- https://github.com/start-jsk/jsk_apc/pull/1150
+- https://github.com/start-jsk/jsk_apc/issues/1138
+- https://github.com/start-jsk/jsk_apc/pull/1595

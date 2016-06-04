@@ -1,0 +1,25 @@
+2016-06-03
+==========
+
+[enhancement] Move nodes to upstream
+------------------------------------
+- https://github.com/iory/jsk_recognition/pull/1
+
+
+[feature] Implement rospy.logXX_throttle
+----------------------------------------
+- https://github.com/ros/ros_comm/pull/812
+
+
+[feature] Show stat when rostopic echo --noarr/nostr
+----------------------------------------------------
+- https://github.com/ros/ros_comm/pull/724
+
+
+[maintain] start-jsk/jsk_apc
+----------------------------
+
+- https://github.com/start-jsk/jsk_apc/pull/1627
+- https://github.com/start-jsk/jsk_apc/pull/1609
+- https://github.com/start-jsk/jsk_apc/pull/1611
+- https://github.com/start-jsk/jsk_apc/issues/1590
