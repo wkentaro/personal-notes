@@ -1,0 +1,19 @@
+2016-06-07
+==========
+
+
+[setup] Multiple GPUs setup for dual Titan X
+--------------------------------------------
+
+- https://devtalk.nvidia.com/default/topic/940305/cuda-setup-and-installation/tesla-k80-with-standard-mother-board-for-dual-gpus-with-titan-x/
+
+
+.. image:: _media/multiple_gpus.png
+
+
+[feature] fanuc robot simulation on Gazebo
+------------------------------------------
+
+- https://github.com/ros-industrial/fanuc_experimental/pull/20
+
+.. image:: _media/fanuc_pos_control_gazebo.png

@@ -1,0 +1,32 @@
+2016-06-06
+==========
+
+
+[conference] Robomech 2016 poster session preparation
+-----------------------------------------------------
+
+- :download:`_media/robomech2016_poster.pdf`
+- :download:`_media/robomech2016_slides.pdf`
+
+
+[test] Test if topic is published
+------------------------------
+
+- `[jsk_tools] Simplify to make sanity_lib work on Travis <https://github.com/jsk-ros-pkg/jsk_common/pull/1405>`_
+- `Add test for bof_histogram_extractor.py and sklearn_classifier.py <https://github.com/jsk-ros-pkg/jsk_recognition/pull/1732>`_
+- `Warnings for without test node/nodelets <https://github.com/jsk-ros-pkg/jsk_recognition/pull/1731>`_
+- `Refactor deprecated node compilation moved to jsk_pcl_ros_utils <https://github.com/jsk-ros-pkg/jsk_recognition/pull/1730>`_
+- `[jsk_tools] Simplify test_topic_published.py for testing on travis <https://github.com/jsk-ros-pkg/jsk_common/pull/1404>`_
+- `Simplify test_topic_published.py for testing on Travis <https://github.com/start-jsk/jsk_apc/pull/1634>`_
+
+
+[bug] Fix screen capturing on rviz
+----------------------------------
+
+- `[jsk_rviz_plugins] Convert RGB to BGR precisely in video capturing <https://github.com/jsk-ros-pkg/jsk_visualization/pull/607>`_
+
+
+[test] Test the gradient backward in Chainer
+--------------------------------------------
+
+- `Specify variables for which grad check is skipped in check_backward <https://github.com/pfnet/chainer/pull/1256>`_
