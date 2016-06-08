@@ -1,0 +1,7 @@
+2016-06-08
+==========
+
+[conference] Update robomech 2016 poster
+----------------------------------------
+
+- `Poster <https://drive.google.com/open?id=0B9P1L--7Wd2vVTFzZEl3azFKeE0>`_
