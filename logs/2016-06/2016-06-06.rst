@@ -10,7 +10,7 @@
 
 
 [test] Test if topic is published
-------------------------------
+---------------------------------
 
 - `[jsk_tools] Simplify to make sanity_lib work on Travis <https://github.com/jsk-ros-pkg/jsk_common/pull/1405>`_
 - `Add test for bof_histogram_extractor.py and sklearn_classifier.py <https://github.com/jsk-ros-pkg/jsk_recognition/pull/1732>`_
