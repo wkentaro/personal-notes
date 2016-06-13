@@ -1,0 +1,11 @@
+2016-06-09
+==========
+
+
+Robomech 2016 poster session
+----------------------------
+
+- poster: https://drive.google.com/open?id=0B9P1L--7Wd2vVTFzZEl3azFKeE0
+- slides: https://drive.google.com/open?id=0B9P1L--7Wd2vczV6bExvRE5hdG8
+
+.. image:: _media/robomech2016.jpg
