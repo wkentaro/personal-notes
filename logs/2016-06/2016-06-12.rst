@@ -1,0 +1,10 @@
+2016-06-12
+==========
+
+
+[feature] In-hand data collection system
+----------------------------------------
+
+- https://github.com/start-jsk/jsk_apc/pull/1685
+- MOVIE: https://drive.google.com/open?id=0B9P1L--7Wd2vZjBrRURkMU1PM0k
+- DATA: https://drive.google.com/open?id=0B9P1L--7Wd2vc1ZGTXROVlUwYkE

@@ -1,0 +1,19 @@
+2016-06-11
+==========
+
+
+[feature] Build model for object recognition
+--------------------------------------------
+
+- https://github.com/start-jsk/jsk_apc/issues/1678#issuecomment-225426953
+
+
+[feature] FCN for APC2015 objects
+---------------------------------
+
+- https://github.com/wkentaro/fcn/pull/33
+
+::
+
+  i_iter,type,loss,acc,acc_cls,iu,fwavacc
+  7000,val,42787.830774,0.828510772439,0.535624157501,0.169351202937,0.773087701521
