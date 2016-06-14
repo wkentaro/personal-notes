@@ -1,0 +1,33 @@
+2016-06-14
+==========
+
+
+[feature] Evaluate FCN vs RBO segmentation
+------------------------------------------
+
+- https://github.com/wkentaro/fcn/pull/33#issuecomment-225431645
+- https://github.com/wkentaro/fcn/pull/34
+
+
+[feature] Data collection for object recognition
+------------------------------------------------
+
+- https://github.com/start-jsk/jsk_apc/pull/1685
+- https://github.com/jsk-ros-pkg/jsk_common/pull/1410
+
+
+[enhancement] Skip when no contours in BoundingRectMaskImage
+------------------------------------------------------------
+
+- https://github.com/jsk-ros-pkg/jsk_recognition/pull/1742
+
+
+[enhancement] Fix video recording in jsk_common
+-----------------------------------------------
+
+- https://github.com/jsk-ros-pkg/jsk_common/pull/1412
+
+
+[feature] Fully Convolutional Networks for Object Segmentation in Real World
+----------------------------------------------------------------------------
+- https://github.com/jsk-ros-pkg/jsk_recognition/pull/1740
