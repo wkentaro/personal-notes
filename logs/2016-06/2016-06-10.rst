@@ -6,5 +6,3 @@ Robomech 2016
 -------------
 
 - Robomech 資料
-
-.. todo:: robomech資料
