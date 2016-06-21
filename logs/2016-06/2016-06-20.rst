@@ -1,0 +1,44 @@
+2016-06-20
+==========
+
+
+[experiment] Evaluation of new gripper with table top object grasping
+---------------------------------------------------------------------
+
+- https://github.com/start-jsk/jsk_apc/issues/1751
+
+
+[enhancement] Show only func name in JSK_XXX log utils
+------------------------------------------------------
+
+- https://github.com/jsk-ros-pkg/jsk_common/pull/1415
+
+
+[feature] Data collection & Object recognition for in-hand target verification with APC2016 objects
+---------------------------------------------------------------------------------------------------
+
+- https://github.com/start-jsk/jsk_apc/issues/1678
+
+
+[experiment] Write grasp success/fail log while data collection on table
+------------------------------------------------------------------------
+
+- https://github.com/start-jsk/jsk_apc/pull/1753
+
+
+[setup] Download trained_data in multiprocess
+---------------------------------------------
+
+- https://github.com/jsk-ros-pkg/jsk_recognition/pull/1749
+
+
+[feature] Add rviz button interface for yes/no service request
+---------------------------------------------------------------
+
+- https://github.com/jsk-ros-pkg/jsk_visualization/pull/609
+
+
+[feature] Add :visualize-path method to jsk_2016_01_baxter_apc::baxter-robot
+----------------------------------------------------------------------------
+
+- https://github.com/start-jsk/jsk_apc/pull/1764

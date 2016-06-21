@@ -1,0 +1,21 @@
+2016-06-16
+==========
+
+
+[feature] Specify variables for which grad check is skipped in check_backward
+-----------------------------------------------------------------------------
+
+- pfnet/chainer
+- https://github.com/pfnet/chainer/pull/1256
+
+
+[setup] Adjust depth_frame of left hand camera
+----------------------------------------------
+
+- https://github.com/start-jsk/jsk_apc/pull/1710
+
+
+[setup] Adjust kinect2_torso tf and add rvizconfig for that
+-----------------------------------------------------------
+
+- https://github.com/start-jsk/jsk_apc/pull/1686

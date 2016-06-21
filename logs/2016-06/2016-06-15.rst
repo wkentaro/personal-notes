@@ -1,0 +1,19 @@
+2016-06-15
+==========
+
+[feature] Support organized point cloud in dimatura/pypcd
+---------------------------------------------------------
+
+- https://github.com/dimatura/pypcd/issues/4
+
+
+[enhancement] Util to convert image 16UC1 to 32FC1
+--------------------------------------------------
+
+- https://github.com/jsk-ros-pkg/jsk_recognition/pull/1743
+
+
+[feature] Detect grasps with pressure threshold
+-----------------------------------------------
+
+- https://github.com/start-jsk/jsk_apc/pull/1700

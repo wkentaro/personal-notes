@@ -1,0 +1,14 @@
+2016-06-17
+==========
+
+
+[enhancement] Fix style of code of rosconsole_overlay_text.py
+-------------------------------------------------------------
+
+- https://github.com/jsk-ros-pkg/jsk_visualization/pull/608
+
+
+[feature] Launch openni2.launch in remove machine with machine tag & attributes
+-------------------------------------------------------------------------------
+
+- https://github.com/ros-drivers/openni2_launch/issues/32

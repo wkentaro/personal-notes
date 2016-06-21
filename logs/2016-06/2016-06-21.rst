@@ -1,0 +1,14 @@
+2016-06-21
+==========
+
+
+[feature] Fully Convolutional Networks for Object Segmentation
+--------------------------------------------------------------
+
+- https://github.com/jsk-ros-pkg/jsk_recognition/pull/1740
+
+
+[test] Hotfix to make Travis testing pass
+-----------------------------------------
+
+- https://github.com/jsk-ros-pkg/jsk_recognition/pull/1750

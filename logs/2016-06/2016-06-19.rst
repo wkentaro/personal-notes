@@ -1,0 +1,32 @@
+2016-06-19
+==========
+
+
+[feature] Visualize official stow json with APC2016 objects
+-----------------------------------------------------------
+
+- https://github.com/start-jsk/jsk_apc/pull/1728
+
+
+[feature] Add YesNo.srv
+-----------------------
+
+- https://github.com/jsk-ros-pkg/jsk_common_msgs/pull/10
+
+
+[bug] Convert RGB to BGR precisely in video capturing
+-----------------------------------------------------
+
+- https://github.com/jsk-ros-pkg/jsk_visualization/pull/607
+
+
+[experiment] FCN vs RBO for object segmentation in bin
+------------------------------------------------------
+
+- https://github.com/start-jsk/jsk_apc/issues/1682
+
+
+[feature] Stamped video output filename for video recorder
+----------------------------------------------------------
+
+- https://github.com/ros-perception/image_pipeline/pull/203

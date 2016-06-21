@@ -1,0 +1,14 @@
+2016-06-18
+==========
+
+
+[setup] Setup field computers
+-----------------------------
+
+- https://github.com/start-jsk/jsk_apc/pull/1722
+
+
+[enhancement] Stop doing self_filter while recognizing object in hand
+---------------------------------------------------------------------
+
+- https://github.com/start-jsk/jsk_apc/pull/1729
